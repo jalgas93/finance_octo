@@ -81,4 +81,7 @@ dependencies {
 
     implementation("de.hdodenhof:circleimageview:3.1.0")
     implementation("com.tbuonomo:dotsindicator:4.3")
+
+    //Blur
+    implementation(libs.blur)
 }
